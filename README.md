@@ -1,4 +1,4 @@
-# card-matching-game
+# Card Matching Game C++
 This repository contains the implementation of a console-based Card Matching Game written in C++. The game challenges players to match pairs of number cards. It includes features for console manipulation, keyboard input handling, and game logic management.
 
 ## Features
